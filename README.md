@@ -1,15 +1,15 @@
 # krafton_subject
 
-code directory : subject-2 °ü·Ã key mapping ÄÚµå °³¹ß<br>
-subject_report : °¢ subjectº° report<br>
-development_log : daily report<br>
+### code directory : subject-2 ê´€ë ¨ key mapping ì½”ë“œ ê°œë°œ<br>
+### subject_report : ê° subjectë³„ report<br>
+### development_log : daily report<br>
 
 ---
-06/25, 28 : subject-0 Á¶»ç ¹× º¸°í¼­ ÀÛ¼º<br>
- ¤¤ °³¹ß ÀÏÁ¤ °èÈ¹ ¹× ÀÌ½´ Æ®·¡Å· ¹æ¾È<br>
+06/25, 28 : subject-0 ì¡°ì‚¬ ë° ë³´ê³ ì„œ ì‘ì„±<br>
+ ã„´ ê°œë°œ ì¼ì • ê³„íš ë° ì´ìŠˆ íŠ¸ë˜í‚¹ ë°©ì•ˆ<br>
 <br>
-06/29 - 30 : subject-1 Á¶»ç ¹× º¸°í¼­ ÀÛ¼º<br>
- ¤¤ °³¹ß ¾ğ¾î Á¶»ç ¹× ¼±Á¤, ¹öÀü °ü¸® Åø Á¶»ç ¹× ¼±Á¤<br>
+06/29 - 30 : subject-1 ì¡°ì‚¬ ë° ë³´ê³ ì„œ ì‘ì„±<br>
+ ã„´ ê°œë°œ ì–¸ì–´ ì¡°ì‚¬ ë° ì„ ì •, ë²„ì „ ê´€ë¦¬ íˆ´ ì¡°ì‚¬ ë° ì„ ì •<br>
 <br>
-06/31 : subject-2 ÄÚµå °³¹ß ¹× º¸°í¼­ ÀÛ¼º<br>
- ¤¤ Å° ÀÔ·Â ¹æ¹ı °³¹ß, °´Ã¼ °ü¸® ÀÚ·á±¸Á¶ Á¶»ç<br>
+06/31 : subject-2 ì½”ë“œ ê°œë°œ ë° ë³´ê³ ì„œ ì‘ì„±<br>
+ ã„´ í‚¤ ì…ë ¥ ë°©ë²• ê°œë°œ, ê°ì²´ ê´€ë¦¬ ìë£Œêµ¬ì¡° ì¡°ì‚¬<br>
