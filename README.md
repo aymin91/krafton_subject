@@ -4,6 +4,8 @@
 ### subject_report : 각 subject별 report<br>
 ### development_log : daily report<br>
 
+---
+
 * 일정 관리는 Jira - krafton 프로젝트에서 확인할 수 있다.<br>
 > https://amin91.atlassian.net/jira/software/projects/KRAF/boards/2
 
